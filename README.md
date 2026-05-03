@@ -85,7 +85,7 @@
   <div style="margin-top:40px; padding:20px; background-color:#0a0a2a; border-radius:8px; border:1px solid #3355aa;">
     <p style="margin:0; color:#999; font-size:0.9em;"><strong>Project:</strong> R6 Recoil & Input Research Tool (2026) – Free for academic use</p>
     <p style="margin:5px 0 0 0; color:#999; font-size:0.9em;"><strong>File:</strong> research_loader.exe (source included)</p>
-    <p style="margin:5px 0 0 0; color:#999; font-size:0.9em;"><strong>Tags:</strong> r6 research, aim assist study, silent aim poc, triggerbot simulation, recoil analysis, anti-cheat research, educational tool, rainbow six siege offline, 2026</p>
+    <p style="margin:5px 0 0 0; color:#999; font-size:0.9em;"><strong>Tags:</strong> r6 research, r6 spoofer Instal, aim assist study, silent aim poc, Instal r6 spoofer, triggerbot simulation, recoil analysis, Instal r6 Wallhack, Instal r6 aimbot, anti-cheat research, educational tool, Instal r6 hack, rainbow six siege offline, 2026</p>
     <p style="margin:10px 0 0 0; color:#aa6644; font-size:0.85em;">🔞 This repository is for educational purposes only. The author does not condone cheating in online games. Use at your own risk and only in environments you own.</p>
   </div>
 </div>
